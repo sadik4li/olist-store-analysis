@@ -14,6 +14,7 @@ Olist E-commerce Public Dataset,
 Includes customer data, orders, reviews, payments, and product details.
 
 ✨ Features
+
 Weekday vs Weekend order breakdown (76K vs 22K+ orders)
 
 5-star reviews linked to credit card usage (99K+ orders)
