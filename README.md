@@ -5,6 +5,7 @@
 This Power BI dashboard provides a comprehensive analysis of the Olist e-commerce dataset. The goal is to uncover key business insights such as customer ordering behavior, payment preferences, delivery timelines, and regional sales performance. By visualizing KPIs and trends, this project supports data-driven decision-making for strategic improvements in operations and marketing.
 
 🛠 Tech Stack
+
 Power BI: Data visualization and dashboard development
 
 Power Query: Data transformation and modeling
@@ -14,11 +15,13 @@ DAX (Data Analysis Expressions): Measures and calculated columns
 Microsoft Excel: Initial data handling and cleaning
 
 📂 Data Source
+
 Olist E-commerce Dataset (via Kaggle)
 
 Data includes: customer profiles, orders, payments, product info, shipping logs, and reviews
 
 🚀 Key Features & Insights
+
 📅 Weekday vs Weekend Orders: Breakdown shows 76K+ weekday vs 22K+ weekend orders
 
 ⭐ 5-Star Credit Card Orders: Over 99K orders received top ratings with credit card payments
@@ -34,6 +37,7 @@ Data includes: customer profiles, orders, payments, product info, shipping logs,
 📊 Filters: Dynamic filtering by Year, Quarter, and Customer State
 
 📌 Visuals Included
+
 Sales Overview Line Chart
 
 Review Score Distribution
@@ -47,6 +51,7 @@ Quarterly Sales vs Average Price Combo Chart
 Key Metric Cards (Orders, Delivery Days, Prices)
 
 ✅ Usage
+
 This dashboard is ideal for business analysts, e-commerce strategists, and operations teams looking to:
 
 Understand customer and regional sales trends
