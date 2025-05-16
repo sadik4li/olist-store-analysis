@@ -1,16 +1,23 @@
 # Olist Store Analysis Dashboard
 
  Short Description
+ 
 An interactive Power BI dashboard designed to analyze customer behavior, payment patterns, sales performance, and delivery efficiency for Olist’s e-commerce platform. This project offers valuable business insights into regional sales, customer satisfaction, and quarterly trends.
 
 🛠 Tech Stack
-Power BI
-DAX (Data Analysis Expressions),
-Power Query,
+
+Power BI.
+
+DAX (Data Analysis Expressions).
+
+Power Query.
+
 Microsoft Excel (for preprocessing).
 
 📂 Data Source
-Olist E-commerce Public Dataset,
+
+Olist E-commerce Public Dataset.
+
 Includes customer data, orders, reviews, payments, and product details.
 
 ✨ Features
