@@ -22,5 +22,5 @@ Dynamic filters by Year, Quarter, and State
 Quarterly comparison of average price vs sales volume
 Trend analysis of sales over time and customer satisfaction metrics
 
-Dashboard: ( 
+Dashboard: ( https://github.com/sadik4li/olist-store-analysis/blob/main/Screenshot%202025-05-16%20231649.png)
 
