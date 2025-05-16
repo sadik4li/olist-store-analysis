@@ -37,5 +37,6 @@ Quarterly comparison of average price vs sales volume
 Trend analysis of sales over time and customer satisfaction metrics
 
 show what the dashboard look like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+
 Dashboard: ![Dashboard Preview].(https://github.com/sadik4li/olist-store-analysis/blob/main/Screenshot%202025-05-16%20231649.png)
 
