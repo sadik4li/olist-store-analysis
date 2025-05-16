@@ -63,5 +63,9 @@ Identify profitable segments and improve marketing efforts
 
 ## 📸 Dashboard Preview 
 
-![Olist Dashboard].(./Screenshot 2025-05-16 231649.png)
+![Olist Dashboard](./Screenshot 2025-05-16 231649.png)
+
+git add README.md olist_dashboard.png
+git commit -m "Add dashboard preview image"
+git push
 
