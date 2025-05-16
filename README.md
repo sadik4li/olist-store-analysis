@@ -61,7 +61,4 @@ Evaluate delivery performance and its impact on satisfaction
 Identify profitable segments and improve marketing efforts
 
 
-## 📸 Dashboard Preview 
-
-![Olist Dashboard](./Screenshot 2025-05-16 231649.png)
 
