@@ -1,40 +1,60 @@
 # Olist Store Analysis Dashboard
 
- Short Description
+ 📁 Project Overview
  
-An interactive Power BI dashboard designed to analyze customer behavior, payment patterns, sales performance, and delivery efficiency for Olist’s e-commerce platform. This project offers valuable business insights into regional sales, customer satisfaction, and quarterly trends.
+This Power BI dashboard provides a comprehensive analysis of the Olist e-commerce dataset. The goal is to uncover key business insights such as customer ordering behavior, payment preferences, delivery timelines, and regional sales performance. By visualizing KPIs and trends, this project supports data-driven decision-making for strategic improvements in operations and marketing.
 
 🛠 Tech Stack
+Power BI: Data visualization and dashboard development
 
-Power BI.
+Power Query: Data transformation and modeling
 
-DAX (Data Analysis Expressions).
+DAX (Data Analysis Expressions): Measures and calculated columns
 
-Power Query.
-
-Microsoft Excel (for preprocessing).
+Microsoft Excel: Initial data handling and cleaning
 
 📂 Data Source
+Olist E-commerce Dataset (via Kaggle)
 
-Olist E-commerce Public Dataset.
+Data includes: customer profiles, orders, payments, product info, shipping logs, and reviews
 
-Includes customer data, orders, reviews, payments, and product details.
+🚀 Key Features & Insights
+📅 Weekday vs Weekend Orders: Breakdown shows 76K+ weekday vs 22K+ weekend orders
 
-✨ Features
+⭐ 5-Star Credit Card Orders: Over 99K orders received top ratings with credit card payments
 
-Weekday vs Weekend order breakdown (76K vs 22K+ orders)
+⏱ Average Delivery Days: Computed as 12 days across all orders
 
-5-star reviews linked to credit card usage (99K+ orders)
+📦 Review Score vs Shipping Days: Clear correlation showing satisfaction drops with longer delivery times
 
-Average delivery time tracking and its impact on review scores
+📍 Sales by State: São Paulo (SP) leads with 6M+ in total payment value
 
-Sales insights by Brazilian states with SP leading (6M+ in sales)
+📈 Quarterly Sales & Price Trends: Q2 shows highest sales and average prices
 
-Dynamic filters by Year, Quarter, and State
+📊 Filters: Dynamic filtering by Year, Quarter, and Customer State
 
-Quarterly comparison of average price vs sales volume
+📌 Visuals Included
+Sales Overview Line Chart
 
-Trend analysis of sales over time and customer satisfaction metrics
+Review Score Distribution
+
+State-wise Sales Bar Chart
+
+Sales Over Time
+
+Quarterly Sales vs Average Price Combo Chart
+
+Key Metric Cards (Orders, Delivery Days, Prices)
+
+✅ Usage
+This dashboard is ideal for business analysts, e-commerce strategists, and operations teams looking to:
+
+Understand customer and regional sales trends
+
+Evaluate delivery performance and its impact on satisfaction
+
+Identify profitable segments and improve marketing efforts
+
 
 show what the dashboard look like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 
