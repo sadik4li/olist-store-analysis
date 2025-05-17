@@ -60,5 +60,7 @@ Evaluate delivery performance and its impact on satisfaction
 
 Identify profitable segments and improve marketing efforts
 
+preview : ![Dashboard Preview](https://github.com/sadik4li/olist-store-analysis/blob/main/Screenshot%202025-05-16%20231649.png)
+
 
 
