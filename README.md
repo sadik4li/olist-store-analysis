@@ -1,64 +1,66 @@
-# Olist Store Analysis Dashboard
+# 🛒 Olist Store Analysis Dashboard  
 
- 📁 Project Overview
- 
-This Power BI dashboard provides a comprehensive analysis of the Olist e-commerce dataset. The goal is to uncover key business insights such as customer ordering behavior, payment preferences, delivery timelines, and regional sales performance. By visualizing KPIs and trends, this project supports data-driven decision-making for strategic improvements in operations and marketing.
+## 📁 Project Overview  
+This project presents an interactive **Power BI dashboard** built on the **Olist e-commerce dataset** (via Kaggle).  
+The objective is to uncover **key business insights** such as:  
+- Customer ordering behavior  
+- Payment preferences  
+- Delivery timelines  
+- Regional sales performance  
 
-🛠 Tech Stack
+By visualizing KPIs and trends, the dashboard supports **data-driven decision-making** for operational improvements and marketing strategies.  
 
-Power BI: Data visualization and dashboard development
+---
 
-Power Query: Data transformation and modeling
+## 🛠 Tech Stack  
+- **Power BI** → Data visualization & dashboard development  
+- **Power Query** → Data cleaning & transformation  
+- **DAX (Data Analysis Expressions)** → Measures & calculated columns  
+- **Microsoft Excel** → Initial data handling and preprocessing  
 
-DAX (Data Analysis Expressions): Measures and calculated columns
+---
 
-Microsoft Excel: Initial data handling and cleaning
+## 📂 Data Source  
+- **Olist E-commerce Dataset (Kaggle)**  
+- Contains:  
+  - Customer profiles  
+  - Orders & payments  
+  - Product information  
+  - Shipping logs  
+  - Review data  
 
-📂 Data Source
+---
 
-Olist E-commerce Dataset (via Kaggle)
+## 🚀 Key Features & Insights  
 
-Data includes: customer profiles, orders, payments, product info, shipping logs, and reviews
+- 📅 **Weekday vs Weekend Orders** → 76K+ weekday orders vs 22K+ weekend orders  
+- ⭐ **5-Star Credit Card Orders** → 99K+ credit card-based orders received top ratings  
+- ⏱ **Average Delivery Days** → 12 days across all orders  
+- 📦 **Review Score vs Shipping Days** → Clear negative correlation (satisfaction drops with longer delivery)  
+- 📍 **Sales by State** → São Paulo (SP) leads with **6M+ total payment value**  
+- 📈 **Quarterly Sales & Price Trends** → Q2 shows peak in both sales and average prices  
+- 📊 **Dynamic Filters** → Slice by **Year, Quarter, and Customer State**  
 
-🚀 Key Features & Insights
+---
 
-📅 Weekday vs Weekend Orders: Breakdown shows 76K+ weekday vs 22K+ weekend orders
+## 📌 Visuals Included  
 
-⭐ 5-Star Credit Card Orders: Over 99K orders received top ratings with credit card payments
+- Sales Overview (line chart)  
+- Review Score Distribution  
+- State-wise Sales (bar chart)  
+- Sales Over Time (trend line)  
+- Quarterly Sales vs Average Price (combo chart)  
+- KPI Metric Cards → Orders, Avg. Delivery Days, Avg. Price  
 
-⏱ Average Delivery Days: Computed as 12 days across all orders
+---
 
-📦 Review Score vs Shipping Days: Clear correlation showing satisfaction drops with longer delivery times
+## ✅ Usage  
+This dashboard is ideal for:  
+- **Business Analysts** → To explore KPIs and customer behavior  
+- **E-commerce Strategists** → To identify profitable segments and payment trends  
+- **Operations Teams** → To evaluate delivery performance and improve logistics  
 
-📍 Sales by State: São Paulo (SP) leads with 6M+ in total payment value
-
-📈 Quarterly Sales & Price Trends: Q2 shows highest sales and average prices
-
-📊 Filters: Dynamic filtering by Year, Quarter, and Customer State
-
-📌 Visuals Included
-
-Sales Overview Line Chart
-
-Review Score Distribution
-
-State-wise Sales Bar Chart
-
-Sales Over Time
-
-Quarterly Sales vs Average Price Combo Chart
-
-Key Metric Cards (Orders, Delivery Days, Prices)
-
-✅ Usage
-
-This dashboard is ideal for business analysts, e-commerce strategists, and operations teams looking to:
-
-Understand customer and regional sales trends
-
-Evaluate delivery performance and its impact on satisfaction
-
-Identify profitable segments and improve marketing efforts
+---
 
 preview : ![Dashboard Preview](https://github.com/sadik4li/olist-store-analysis/blob/main/Screenshot%202025-05-16%20231649.png)
 
